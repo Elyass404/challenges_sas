@@ -37,7 +37,7 @@ char complete_name [20]="";
 strcat(complete_name,first_name);
 strcat(complete_name, last_name );
 
-printf("concatenating using the built in function stcat(): ");
+printf("concatenating using the built in function strcat(): ");
 
 printf("%s",complete_name);
 
