@@ -10,7 +10,7 @@ typedef struct {
     int numero ;
     char nom[20];
     char post[20];
-    famille status_famille;
+    famille status_famille; //hada structured variable wst structure (structures imbriquee bl french)
 }joueur;
 
 int main() {
